@@ -33,9 +33,9 @@
 } */
 
 /* Sweet sunset dots */
-.monaco-workbench .activitybar>.content .monaco-action-bar .badge .badge-content {
+/* .monaco-workbench .activitybar>.content .monaco-action-bar .badge .badge-content {
   background: linear-gradient(to bottom, #fff951 25%, #fc28a8);
-}
+} */
 
 /* Active tab neon */
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit.active {
