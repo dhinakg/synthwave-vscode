@@ -24,13 +24,13 @@
 } */
 
 /* Add the subtle gradient to the editor background */
-.monaco-editor {
+/* .monaco-editor {
   background-color: transparent !important;
   background-image: linear-gradient(to bottom, #2a2139 75%, #34294f);
   background-size: auto 100vh;
   background-position: top;
   background-repeat: no-repeat;
-}
+} */
 
 /* Sweet sunset dots */
 .monaco-workbench .activitybar>.content .monaco-action-bar .badge .badge-content {
