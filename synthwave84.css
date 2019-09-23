@@ -1,40 +1,27 @@
 
 .mtk3 {
-  color: #f92aad;
   text-shadow: 0 0 2px #100c0f, 0 0 5px #dc078e33, 0 0 10px #fff3;
 }
 
-.mtk4 {
-  color: #6d77b3;
-}
-
-.mtk5 {
-  color: #f97e72;
-}
-
 .mtk6 {
-  color: #fdfdfd;
   text-shadow: 0 0 2px #001716, 0 0 3px #03edf975, 0 0 5px #03edf975, 0 0 8px #03edf975;
 }
 
 .mtk7 {
-  color: #fff5f6;
   text-shadow: 0 0 2px #000, 0 0 10px #fc1f2c75, 0 0 5px #fc1f2c75, 0 0 25px #fc1f2c75;
 }
 
 .mtk8 {
-  color: #72f1b8;
   text-shadow: 0 0 2px #100c0f, 0 0 10px #257c5575, 0 0 35px #21272475;
 }
 
 .mtk9 {
-  color: #f4eee4;
   text-shadow: 0 0 2px #393a33, 0 0 8px #f39f0575, 0 0 2px #f39f0575;
 }
 
-.monaco-editor .margin, .monaco-editor .inputarea.ime-input {
+/* .monaco-editor .margin, .monaco-editor .inputarea.ime-input {
   background: transparent;
-}
+} */
 
 /* Add the subtle gradient to the editor background */
 .monaco-editor {
@@ -52,7 +39,6 @@
 
 /* Active tab neon */
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container>.tab.sizing-fit.active {
-  box-shadow: inset 0 -5px 25px #fc28a825;
   position: relative;
 }
 
@@ -83,7 +69,6 @@
 
 /* Active sidebar item */
 .monaco-workbench .activitybar>.content .monaco-action-bar .action-item.checked {
-  box-shadow: inset 0 -5px 25px #fc28a825;
   position: relative;
 }
 
